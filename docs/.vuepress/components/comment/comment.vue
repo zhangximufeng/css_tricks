@@ -614,8 +614,8 @@ export default {
 
     script.onload = () => {
       const commentConfig = {
-        clientID: "9eb624fa10d287c81385",
-        clientSecret: "20e11930755d795b3230fd0b535b7ddacda5ad54",
+        clientID: "b60281f91fb7db642a5c",
+        clientSecret: "f1ae3e088a2556f63d64a9eb99a322be7890c84a",
         repo: "css_tricks",
         owner: "zhangximufeng",
         admin: ["zhangximufeng"],
