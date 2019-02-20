@@ -1,4 +1,4 @@
-<div align="center"><img src="https://raw.githubusercontent.com/QiShaoXuan/css_tricks/master/logo.png"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/zhangximufeng/css_tricks/master/logo.png"></div>
 
 ## 关于 About
 
@@ -12,7 +12,7 @@
 
 ## 快速开始 Quick start
 
-- Clone the `https://github.com/QiShaoXuan/css_tricks.git`
+- Clone the `https://github.com/zhangximufeng/css_tricks.git`
 - Install package `npm install`
 - Development run `npm run docs:dev`
 - Open `http://localhost:8080` in your browser.
@@ -29,10 +29,10 @@
 or submit an issue, any helpful suggestions are welcomed
 
 ## JS Tricks
-<a href="https://qishaoxuan.github.io/js_tricks/" target="_blank">view online</a>
+<a href="https://zhangximufeng.github.io/js_tricks/" target="_blank">view online</a>
 
 ## 关于猫 About cat (问的人太多了...)
 
-<a href="https://github.com/QiShaoXuan/live2DModel" target="_blank">本来是写在 console 里的</a>
+<a href="https://github.com/zhangximufeng/live2DModel" target="_blank">本来是写在 console 里的</a>
 
 

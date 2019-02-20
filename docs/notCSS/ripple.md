@@ -1,5 +1,5 @@
 :::tip
-具体使用请查看 <a href="https://github.com/QiShaoXuan/rhythm-ripple">https://github.com/QiShaoXuan/rhythm-ripple</a>
+具体使用请查看 <a href="https://github.com/zhangximufeng/rhythm-ripple">https://github.com/zhangximufeng/rhythm-ripple</a>
 :::
 
 <ripple-ripple/>

@@ -13,22 +13,22 @@ module.exports = {
     ['meta', { itemprop: 'name', content: 'CSSTricks' }],
     ['meta', { itemprop: 'image', content: '/css_tricks/images/favicon.png' }],
   ],
-  repo: 'https://github.com/QiShaoXuan/css_tricks', // 添加 github 链接
+  repo: 'https://github.com/zhangximufeng/css_tricks', // 添加 github 链接
   themeConfig: {
     themeConfig: {
       lastUpdated: 'Last Updated',
     },
     nav: [{
         text: 'js tricks',
-        link: 'https://qishaoxuan.github.io/js_tricks/'
+        link: 'https://zhangximufeng.github.io/js_tricks/'
       },
       {
         text: 'blog',
-        link: 'https://qishaoxuan.github.io/blog/'
+        link: 'https://zhangximufeng.github.io/'
       },
       {
         text: 'GitHub',
-        link: 'https://github.com/QiShaoXuan/css_tricks'
+        link: 'https://github.com/zhangximufeng/css_tricks'
       },
     ],
     sidebar: [

@@ -18,8 +18,8 @@
       return {
         isLoaded:true,
         model:{
-          blackCat:'https://qishaoxuan.github.io/live2DModel/live2d-widget-model-hijiki/assets/hijiki.model.json',
-          whiteCat:'https://qishaoxuan.github.io/live2DModel/live2d-widget-model-tororo/assets/tororo.model.json',
+          blackCat:'https://zhangximufeng.github.io/live2DModel/live2d-widget-model-hijiki/assets/hijiki.model.json',
+          whiteCat:'https://zhangximufeng.github.io/live2DModel/live2d-widget-model-tororo/assets/tororo.model.json',
         }
       }
     },
@@ -33,7 +33,7 @@
       const body = document.querySelector("body");
 
       const script = document.createElement("script");
-      script.src = "https://qishaoxuan.github.io/live2DModel/L2Dwidget.min.js";
+      script.src = "https://zhangximufeng.github.io/live2DModel/L2Dwidget.min.js";
       body.appendChild(script);
 
       script.onload = () => {
